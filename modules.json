@@ -1,0 +1,42 @@
+[
+  {
+    "module_code": "mgt12_3",
+    "module_label": "MGT 12.3 - Authority Mapping",
+    "module_title": "Authority Mapping",
+    "module_slug": "authority_mapping",
+    "app_code": "mgt12",
+    "app_label": "MGT 12 - Organizational Structuring",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt12_4",
+    "module_label": "MGT 12.4 - Org Revision Management",
+    "module_title": "Org Revision Management",
+    "module_slug": "org_revision_management",
+    "app_code": "mgt12",
+    "app_label": "MGT 12 - Organizational Structuring",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt12_1",
+    "module_label": "MGT 12.1 - Org Structure Design",
+    "module_title": "Org Structure Design",
+    "module_slug": "org_structure_design",
+    "app_code": "mgt12",
+    "app_label": "MGT 12 - Organizational Structuring",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt12_2",
+    "module_label": "MGT 12.2 - Role Definition",
+    "module_title": "Role Definition",
+    "module_slug": "role_definition",
+    "app_code": "mgt12",
+    "app_label": "MGT 12 - Organizational Structuring",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  }
+]
